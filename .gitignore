@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+py3venv
+project.db
+/static
+.DS_Store
